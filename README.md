@@ -1,0 +1,30 @@
+**GameJam 일정**<br>
+- [GameJam 1차](https://github.com/LeeeJooo/MiniGame_EdgeRunner) : (4일) 2024년 9월 2일 월요일 ~ 2024년 9월 5일 목요일
+- GameJam 2차 : (6일) 2024년 9월 6일 금요일 ~ 2024년 9월 11일 수요일<Br>
+
+**GameJam 2차**<br>
+- **주제** : Ball<br>
+- **인원** : 3명 (Game Designer, Client Programmer, Server Programmmer)
+<BR><BR>
+# PROJECT 소개
+![1](Images/1.png)
+![2](Images/2.png)
+![3](Images/3.png)
+![4](Images/4.png)
+![5](Images/5.png)
+![6](Images/6.png)
+![7](Images/7.png)
+![8](Images/8.png)
+![9](Images/9.png)
+![10](Images/10.png)
+![11](Images/11.png)
+![12](Images/12.png)
+![13](Images/13.png)
+![14](Images/14.png)
+![15](Images/15.png)
+![16](Images/16.png)
+![17](Images/17.png)
+![18](Images/18.png)
+![19](Images/19.png)
+![20](Images/20.png)
+![21](Images/21.png)
