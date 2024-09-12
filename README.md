@@ -1,5 +1,5 @@
 **GameJam 일정**<br>
-- [GameJam 1차](https://github.com/LeeeJooo/MiniGame_EdgeRunner) : (4일) 2024년 9월 2일 월요일 ~ 2024년 9월 5일 목요일
+- [GameJam 1차](https://github.com/LeeeJooo/GameJam_EdgeRunner) : (4일) 2024년 9월 2일 월요일 ~ 2024년 9월 5일 목요일
 - GameJam 2차 : (6일) 2024년 9월 6일 금요일 ~ 2024년 9월 11일 수요일<Br>
 
 **GameJam 2차**<br>
