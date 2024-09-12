@@ -4,7 +4,12 @@
 
 **GameJam 2차**<br>
 - **주제** : Ball<br>
-- **인원** : 3명 (Game Designer, Client Programmer, Server Programmmer)
+- **인원** : 3명 (Game Designer, Client Programmer, Server Programmmer)<br>
+
+**How to Install LoopRunner**<Br>
+참고 : 안드로이드에서만 설치할 수 있습니다.<br>
+1. [InstallGame](https://github.com/LeeeJooo/GameJam_LoopRunner/tree/main/InstallGame)의 LoopRunner.apk 파일을 설치하고자 하는 모바일 기기에 다운로드 합니다.
+2. 모바일 기기에서 apk 파일을 열고 게임을 설치합니다.
 <BR><BR>
 # PROJECT 소개
 ![1](Images/1.png)
